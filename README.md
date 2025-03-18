@@ -1,0 +1,2 @@
+# RoboFusion-Deep-Learning-Enhanced-Pose-Estimation-and-Adaptive-Sensor-Fusion-for-Mobile-Robotics
+This project demonstrates a real-time pose estimation and sensor fusion pipeline for mobile robotics. It combines lightweight CNN with Monte Carlo dropout for 6D pose prediction from monocular images and an EKF that fuses noisy CNN outputs with simulated odometry. It simulates camera calibration &amp; extrinsic transformation for realistic integration.
